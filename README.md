@@ -27,8 +27,9 @@ A passionate C & C++ developer working on system applications, data structures, 
 ---
 
 ### 📊 GitHub Stats
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=radial)
+[![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 
 ---
