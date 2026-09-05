@@ -27,9 +27,9 @@ A passionate C & C++ developer working on system applications, data structures, 
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=stars)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=stars)
 
 
 
