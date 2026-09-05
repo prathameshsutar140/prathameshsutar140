@@ -31,7 +31,6 @@ A passionate C & C++ developer working on system applications, data structures, 
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=stars)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 ---
