@@ -33,7 +33,7 @@ A passionate C & C++ developer working on system applications, data structures, 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)
 ---
 
 ### 📫 How to reach me
