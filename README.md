@@ -33,5 +33,3 @@ A passionate C & C++ developer working on system applications, data structures, 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
-
