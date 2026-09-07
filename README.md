@@ -31,11 +31,7 @@ A passionate C & C++ developer working on system applications, data structures, 
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=prathameshsutar140&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show=stars)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=radial)
----
-
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-sutar-39a75b3b3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshsutar140@gmail.com)
