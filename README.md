@@ -59,7 +59,7 @@
   <img src="https://streak-stats.demolab.com?user=prathameshsutar140&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
+## 📈 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prathameshsutar140&theme=dark&hide_border=false&border_radius=8)
+
