@@ -344,4 +344,5 @@ I'm interested in technology, creative projects, collaboration and learning oppo
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:111C3B,100:070B18&height=130&section=footer" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prathameshsutar140)](https://git.io/streak-stats)
+<br/>
+
