@@ -14,16 +14,12 @@
 <a href="https://www.linkedin.com/in/prathamesh-s-39b3b3">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://www.hackerrank.com/prathameshsutar">
-<img src="https://img.shields.io/badge/HACKERRANK-VISIT-16A34A?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+
 <a href="mailto:prathameshsutar140@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=prathameshsutar140&style=for-the-badge&color=2563EB&label=PROFILE+VISITORS" />
+<br/>
 
 </div>
 
