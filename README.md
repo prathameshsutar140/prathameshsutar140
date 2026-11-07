@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,45:111C3B,100:312E81&height=220&section=header&text=PRATHAMESH%20SUTAR&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=COMPUTER%20TECHNOLOGY%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=13&descAlignY=65&animation=fadeIn" />
 
@@ -230,31 +230,14 @@ These are development interests and project directions, not claims that every pr
 
 ## ◈ GITHUB ANALYTICS
 
-
-<!-- GITHUB ANALYTICS -->
-<h2 align="center">◈ GITHUB ANALYTICS</h2>
-
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140 & show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
 
   <br/><br/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=prathameshsutar140&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsutar140&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -264,7 +247,7 @@ These are development interests and project directions, not claims that every pr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsutar140&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsutar140&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
