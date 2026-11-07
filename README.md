@@ -205,26 +205,6 @@ A student grade management application developed as a programming project.
 <img src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=prathameshsutar140&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## ◈ CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<!-- Contribution activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsutar140&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-
-<br/><br/>
-
-<!-- Simple contribution calendar image as a lightweight alternative to the activity graph -->
-<img src="https://ghchart.rshah.org/38BDF8/prathameshsutar140" width="100%" alt="GitHub contribution calendar" />
-
 </div>
 
 ---
