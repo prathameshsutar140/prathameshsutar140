@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Prathamesh+%F0%9F%91%8B;I+love+building+things+with+code.;Exploring+AI%2C+Web+Development+%26+Automation.;Turning+ideas+into+digital+experiences.;Always+Learning.+Always+Building.+%E2%9C%A8" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/prathameshsutar140">
 <img src="https://img.shields.io/badge/GitHub-PRATHAMESHSUTAR140-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -230,15 +230,31 @@ These are development interests and project directions, not claims that every pr
 
 ## ◈ GITHUB ANALYTICS
 
+
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">◈ GITHUB ANALYTICS</h2>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Most Used Languages"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=prathameshsutar140&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
+  <img
+    src="https://streak-stats.demolab.com?user=prathameshsutar140&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
 
 </div>
 
