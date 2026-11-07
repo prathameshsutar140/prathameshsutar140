@@ -198,12 +198,14 @@ A student grade management application developed as a programming project.
 
 ---
 
-## ◈ GITHUB ANALYTICS
+## ◈ GITHUB PROFILE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages" />
+<a href="https://github.com/prathameshsutar140"><img src="https://img.shields.io/github/followers/prathameshsutar140?label=Followers&style=for-the-badge&logo=github&color=312E81" alt="GitHub followers" /></a>
+<a href="https://github.com/prathameshsutar140?tab=repositories"><img src="https://img.shields.io/badge/Explore-Public%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" /></a>
+
+<p>Visit my GitHub profile to see my repositories and recent activity.</p>
 
 </div>
 
