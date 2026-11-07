@@ -230,16 +230,14 @@ These are development interests and project directions, not claims that every pr
 
 ## ◈ GITHUB ANALYTICS
 
+## ◈ CONTRIBUTION ACTIVITY
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshsutar140&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsutar140&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshsutar140&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshsutar140&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
