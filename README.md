@@ -241,15 +241,7 @@ These are development interests and project directions, not claims that every pr
 
 ---
 
-## ◈ CONTRIBUTION ACTIVITY
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsutar140&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
 
 ## ◈ THE DEVELOPER MINDSET
 
