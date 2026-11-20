@@ -11,7 +11,7 @@
 <a href="https://github.com/prathameshsutar140">
 <img src="https://img.shields.io/badge/GitHub-PRATHAMESHSUTAR140-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/prathamesh-s-39b3b3">
+<a href="https://www.linkedin.com/in/prathamesh-sutar-">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
