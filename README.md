@@ -318,11 +318,8 @@ I'm interested in technology, creative projects, collaboration and learning oppo
 <a href="https://github.com/prathameshsutar140">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/prathamesh-sutar-" 
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/prathameshsutar">
-<img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<a href="https://www.linkedin.com/in/prathamesh-sutar-">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:prathameshsutar140@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
