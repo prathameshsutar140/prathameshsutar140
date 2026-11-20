@@ -318,7 +318,7 @@ I'm interested in technology, creative projects, collaboration and learning oppo
 <a href="https://github.com/prathameshsutar140">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/prathamesh-s-39b3b3">
+<a href="https://www.linkedin.com/in/prathamesh-sutar-" 
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/prathameshsutar">
