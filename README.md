@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,45:111C3B,100:312E81&height=220&section=header&text=PRATHAMESH%20SUTAR&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=COMPUTER%20TECHNOLOGY%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=13&descAlignY=65&animation=fadeIn" />
 
-<br/>
+<br> <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Prathamesh+%F0%9F%91%8B;I+love+building+things+with+code.;Exploring+AI%2C+Web+Development+%26+Automation.;Turning+ideas+into+digital+experiences.;Always+Learning.+Always+Building.+%E2%9C%A8" />
 
